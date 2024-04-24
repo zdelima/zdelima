@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!! 👋
+
+I'm Zack Delima. I'm a UCI Computer Science student with **Junior** standing. On my profile you'll be able to find repositories of my own personal projects. 🌻
+
+Feel free to reach out to me: zdelima@uci.edu
 
 <!--
 **zdelima/zdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
