@@ -1,6 +1,7 @@
 ### Hello!! 👋
 
-I'm Zack Delima. I'm a UCI Computer Science student with **Junior** standing. On my profile you'll be able to find repositories of my own personal projects. 🌻
+I'm Zack Delima. I'm a UCI Computer Science student with **Junior** standing. Zot zot! 🎓
+ On my profile you'll be able to find repositories of my own personal projects. 🌻
 
 Feel free to reach out to me: zdelima@uci.edu
 
